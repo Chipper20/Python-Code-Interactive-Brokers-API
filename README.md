@@ -2,6 +2,10 @@ This is a repository to store my code which uses the Interactive Brokers API
 You will need an IB account and python to run the program
 
 # Get-Historical-Data
+
+Python Files
+
+# GetOneInstrument.py
 Answer the questions below to use the code to download historical data
 
 Enter the Instrument (AAPL... ) >
