@@ -16,4 +16,4 @@ Enter the exchange (SMART... )  >
 Enter the length for the Data (1 D, 1800, S...) >
 Enter the bar size for the Data (30 mins, 1 day...) >
 
-Note (you must save the RandomRawData.xlsx in the same drive but it doesn't need any symbol sheets)
+Note (you must save the RandomRawData.xlsx in the same drive but it doesn't need any symbol sheets) The file must be closed when you run the python code.
